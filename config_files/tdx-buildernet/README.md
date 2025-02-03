@@ -23,7 +23,7 @@ This profile creates an image to run as part of [BuilderNet](https://buildernet.
 - poky: Base Yocto distribution
 
 ## Build Configuration
-- Image Type: `cvm-image-azure`
+- Image Type: `core-image-minimal`
 - Package Format: IPK
 - Supported Machine: tdx
 - Distribution: cvm
